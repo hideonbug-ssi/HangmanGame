@@ -1,0 +1,2 @@
+# HangmanGame
+ Develop a program to solve the case study Hangman Game The program will first generate a random words from the predefined collections of word in list. The word to guess is represented by a row of dashes. If the player guess a letter which match the letter in the word, the program writes it in all its correct positions. The player has 10 turns to guess the word. The game is over if the player fails to complete the word guess after 10 turns.
